@@ -1,2 +1,3 @@
-# Project 3 - McNulty
-For Project 3 at Metis Bootcamp, we were challenged with predicting a categorical outcome using SQL, Supervised Learning and creating an interactive visualisation.
+# Wine Not? Classifying wine based on its physicochemical properties
+
+This repository has relocated to my new Git profile which can be found [here](https://github.com/laurenlhoward14/wine-classification)
